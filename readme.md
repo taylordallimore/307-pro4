@@ -11,7 +11,6 @@ cd ../
 
 java -jar core.jar 
 
-cd python
 
 py main.py
 
